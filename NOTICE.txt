@@ -1,0 +1,12 @@
+This project includes software originally developed by:
+
+- Start Bootstrap LLC (https://github.com/StartBootstrap/startbootstrap-creative)
+Copyright (c) 2013-2023 Start Bootstrap LLC
+Licensed under the MIT License.
+
+Modifications and additional work have been made by:
+- José Caramello (https://github.com/caramelloj/Portfolio)
+Copyright (c) 2025 José Caramello
+Also licensed under the MIT License.
+
+See LICENSE file for full license text.

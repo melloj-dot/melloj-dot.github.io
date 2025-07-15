@@ -1,0 +1,17 @@
+{
+  "title": "At Your Service",
+  "items": [
+    {
+      "title": "Development of Web Applications",
+      "description": "Transforming ideas into powerful digital solutions. I specialize in digitizing processes, automating tasks, designing robust databases, and building impactful web applications that effectively solve real-world problems."
+    },
+    {
+      "title": "Systems Administration",
+      "description": "Ensuring robust and reliable system operations. I focus on maintaining, backing up, and ensuring servers and systems run flawlessly."
+    },
+    {
+      "title": "IT Support",
+      "description": "Providing reliable technical assistance and support. My work involves quickly diagnosing and fixing hardware, software, and network problems to keep operations running smoothly."
+    }
+  ]
+}

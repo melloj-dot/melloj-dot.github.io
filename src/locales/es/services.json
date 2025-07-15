@@ -1,0 +1,17 @@
+{
+  "title": "A su servicio",
+  "items": [
+    {
+      "title": "Desarrollo de aplicaciones web",
+      "description": "Transformando ideas en soluciones digitales potentes. Me especializo en digitalizar procesos, automatizar tareas, diseñar bases de datos robustas y construir aplicaciones web que resuelven problemas reales de manera efectiva."
+    },
+    {
+      "title": "Administración de sistemas",
+      "description": "Asegurando operaciones de sistemas robustas y confiables. Me enfoco en mantener, respaldar y garantizar que los servidores y sistemas funcionen sin problemas."
+    },
+    {
+      "title": "Soporte IT",
+      "description": "Brindando asistencia técnica confiable. Diagnostico y soluciono problemas de hardware, software y red para mantener las operaciones funcionando sin interrupciones."
+    }
+  ]
+}

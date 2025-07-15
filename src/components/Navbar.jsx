@@ -29,7 +29,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
       <div className="container px-4 px-lg-5">
-        <a className="navbar-brand" href="/portfolio">Jose Caramello</a>
+        <a className="navbar-brand" href="/">Jose Caramello</a>
         <button
           className="navbar-toggler navbar-toggler-right"
           type="button"

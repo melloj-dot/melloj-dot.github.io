@@ -1,6 +1,16 @@
 @charset "UTF-8";
-
-
+/*!
+* Start Bootstrap - Creative v7.0.7 (https://startbootstrap.com/theme/creative)
+* Copyright 2013-2023 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
+*/
+/*!
+ * Bootstrap  v5.2.3 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+ 
 #animated-heading {
     font-size: 3em;
     white-space: nowrap; 
@@ -10937,8 +10947,9 @@ hr.divider-light {
     padding-right: 0;
   }
   #mainNav.navbar-shrink {
+    background-color: white !important;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #212529;

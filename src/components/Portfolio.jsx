@@ -13,7 +13,6 @@ function Portfolio() {
           captionsData: 'title',
           captionDelay: 250,
         });
-
         window._lightbox = lightbox;
       }
     }, 500);
@@ -32,21 +31,21 @@ function Portfolio() {
               <a
                 className="portfolio-box"
                 href={project.image}
-                title={project.title}
+                title={t(project.title)}
               >
                 <img
                   className="img-fluid"
                   src={project.image}
-                  alt={project.title}
+                  alt={t(project.title)}
                 />
                 <div className="portfolio-box-caption">
                   <div className="project-category text-white-50">
-                    {project.description}
+                    {t(project.description)}
                   </div>
-                  <div className="project-name">{project.title}</div>
+                  <div className="project-name">{t(project.title)}</div>
                   {project.details && (
                     <div className="project-details text-white-50 mt-1">
-                      {project.details}
+                      {t(project.details)}
                     </div>
                   )}
                 </div>

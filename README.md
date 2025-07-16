@@ -1,6 +1,6 @@
 # My Portofolio
-This(https://melloj-dot.github.io/) website provides information about me, the services I offer, the projects I've completed, and my contact information.
-
+This website provides information about me, the services I offer, the projects I've completed, and my contact information.
+URL: https://melloj-dot.github.io/
 ## Used technologies
 - HTML
 - CSS

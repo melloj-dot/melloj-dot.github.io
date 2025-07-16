@@ -10927,9 +10927,10 @@ hr.divider-light {
 }
 @media (min-width: 992px) {
   #mainNav {
-    box-shadow: none;
     background-color: transparent;
+    box-shadow: none;
   }
+
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
   }
@@ -10943,13 +10944,11 @@ hr.divider-light {
   #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: #fff;
   }
-  #mainNav .navbar-nav .nav-item:last-child .nav-link {
-    padding-right: 0;
-  }
+
+  /* Cuando tiene clase navbar-shrink */
   #mainNav.navbar-shrink {
-    background-color: white !important;
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    background-color: #fff !important;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #212529;
@@ -10964,6 +10963,7 @@ hr.divider-light {
     color: #4eb20a;
   }
 }
+
 
 header.masthead {
   padding-top: 10rem;

@@ -44,6 +44,11 @@ function Portfolio() {
                     {project.description}
                   </div>
                   <div className="project-name">{project.title}</div>
+                  {project.details && (
+                    <div className="project-details text-white-50 mt-1">
+                      {project.details}
+                    </div>
+                  )}
                 </div>
               </a>
               <div className="text-center my-2">

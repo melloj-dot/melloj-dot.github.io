@@ -11042,3 +11042,17 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
   background-color: rgba(78, 178, 10, 0.9);
 }
+
+#mainNav {
+  background-color: #ffffff !important;
+}
+
+#mainNav .navbar-brand,
+#mainNav .nav-link {
+  color: #000000 !important;
+}
+
+#mainNav .nav-link:hover,
+#mainNav .nav-link:focus {
+  color: #333333 !important; /* un gris oscuro para hover */
+}

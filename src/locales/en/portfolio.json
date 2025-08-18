@@ -1,0 +1,32 @@
+{
+  "title": "Portfolio",
+  "viewCode": "View Code",
+  "privateRepo": "Private Repository",
+  "projects": {
+    "michis": {
+      "title": "Michis",
+      "description": "Used technologies: ReactJS+Vite, Bootstrap, Bootswatch, Public API",
+      "details": "A project to show random cat images using an external API."
+    },
+    "estimations": {
+      "title": "Estimations & export .pdf",
+      "description": "Used technologies: ReactJS+Vite, Bootstrap",
+      "details": "Web app for creating estimations and exporting them as PDF."
+    },
+    "crm": {
+      "title": "CRM for Lubricentro",
+      "description": "Used technologies: PHP, Laravel, HTML, CSS, Blade, AdminLTE v3, Bootstrap, MySql, GIT",
+      "details": "Customer management system for a Lubricentro business."
+    },
+    "food": {
+      "title": "Food Reserves System",
+      "description": "Used technologies: PHP, Laravel, HTML, CSS, JS, Blade, AdminLTE v3, Bootstrap, MySql, GIT",
+      "details": "Platform to manage food reservations efficiently."
+    },
+    "crud": {
+      "title": "CRUD for car repairs",
+      "description": "Used technologies: PHP, Laravel, HTML, CSS, Blade, Bootstrap, MySql, GIT",
+      "details": "CRUD system to manage car repair records and services."
+    }
+  }
+}

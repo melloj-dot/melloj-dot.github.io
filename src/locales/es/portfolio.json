@@ -1,0 +1,32 @@
+{
+  "title": "Portafolio",
+  "viewCode": "Ver Código",
+  "privateRepo": "Repositorio Privado",
+  "projects": {
+    "michis": {
+      "title": "Michis",
+      "description": "Tecnologías usadas: ReactJS+Vite, Bootstrap, Bootswatch, API Pública",
+      "details": "Proyecto para mostrar imágenes aleatorias de gatos usando una API externa."
+    },
+    "estimations": {
+      "title": "Estimaciones y exportación PDF",
+      "description": "Tecnologías usadas: ReactJS+Vite, Bootstrap",
+      "details": "Aplicación web para crear estimaciones y exportarlas en PDF."
+    },
+    "crm": {
+      "title": "CRM para Lubricentro",
+      "description": "Tecnologías usadas: PHP, Laravel, HTML, CSS, Blade, AdminLTE v3, Bootstrap, MySql, GIT",
+      "details": "Sistema de gestión de clientes para un negocio de lubricentro."
+    },
+    "food": {
+      "title": "Sistema de Reservas de Alimentos",
+      "description": "Tecnologías usadas: PHP, Laravel, HTML, CSS, JS, Blade, AdminLTE v3, Bootstrap, MySql, GIT",
+      "details": "Plataforma para gestionar reservas de alimentos de manera eficiente."
+    },
+    "crud": {
+      "title": "CRUD para reparaciones de autos",
+      "description": "Tecnologías usadas: PHP, Laravel, HTML, CSS, Blade, Bootstrap, MySql, GIT",
+      "details": "Sistema CRUD para gestionar registros y servicios de reparaciones de autos."
+    }
+  }
+}

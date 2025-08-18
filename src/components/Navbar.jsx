@@ -91,7 +91,7 @@ export default function Navbar() {
               }
             }}
           >
-            Jose Caramello
+            José Caramello
           </Typography>
 
           {isMobile ? (
